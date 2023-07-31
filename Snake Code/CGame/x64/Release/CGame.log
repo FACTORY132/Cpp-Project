@@ -1,0 +1,17 @@
+﻿  fruit.cpp
+  main.cpp
+  random.cpp
+C:\Users\Admin\source\repos\CGame\CGame\random.cpp(46,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\CGame\CGame\random.cpp(50,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\CGame\CGame\random.cpp(50,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\CGame\CGame\random.cpp(58,32): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\Admin\source\repos\CGame\CGame\random.cpp(62,37): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\Admin\source\repos\CGame\CGame\random.cpp(62,32): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+  sdlplugin.cpp
+  snake.cpp
+  tile.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 110 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CGame.vcxproj -> C:\Users\Admin\source\repos\CGame\x64\Release\CGame.exe
