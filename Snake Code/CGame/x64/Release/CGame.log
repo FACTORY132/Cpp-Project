@@ -12,6 +12,6 @@ C:\Users\Admin\source\repos\CGame\CGame\random.cpp(62,32): warning C4244: 'argum
   tile.cpp
   Generating code
   Previous IPDB not found, fall back to full compilation.
-  All 110 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 109 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   CGame.vcxproj -> C:\Users\Admin\source\repos\CGame\x64\Release\CGame.exe

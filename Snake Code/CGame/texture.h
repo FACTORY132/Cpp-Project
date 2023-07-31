@@ -2,10 +2,7 @@
 #include <SDL_image.h>
 
 class Texture {
-
 public:
-
-
 	static SDL_Texture* getTexture(SDL_Renderer* renderer, SDL_Rect* rect ,std::string file) {
 		std::string path = "./img/" + file + ".png";
 		SDL_Surface* surface = IMG_Load(path.c_str());
@@ -14,10 +11,4 @@ public:
 		SDL_RenderCopy(renderer, texture, NULL, rect);
 		return texture;
 	}
-
-	static void justDraw(SDL_Renderer* render, SDL_Rect* rect) {
-		SDL_SetRenderDrawColor(render, 255, 255, 255, 255);
-		SDL_RenderDrawRect(render, rect);
-	}
-
 };

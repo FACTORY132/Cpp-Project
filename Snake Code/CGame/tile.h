@@ -7,4 +7,5 @@ struct Tile {
 	SDL_Rect rect;
 };
 
-void generate(SDL_Renderer *render, Tile *tile);
+//Generate background
+extern void generate(SDL_Renderer *render, Tile *tile);
